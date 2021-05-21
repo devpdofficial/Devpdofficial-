@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpdofficial" alt="devpdofficial" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thepdwrites" target="blank"><img src="https://img.shields.io/twitter/follow/thepdwrites?logo=twitter&style=for-the-badge" alt="thepdwrites" /></a> </p>
+<p align="left"> <a href="https://twitter.com/funchostuff?s=09 " target="blank"><img src="https://img.shields.io/twitter/follow/thepdwrites?logo=twitter&style=for-the-badge" alt="funchostuff" /></a> </p>
 
 - 🔭 I’m currently working on **SSTC-PROJECT**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thepdwrites" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thepdwrites" height="30" width="40" /></a>
+<a href="https://twitter.com/funchostuff?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thepdwrites" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="priyanshu das" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshudas7x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="priyanshudas7x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/priyanshu das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanshu das" height="30" width="40" /></a>
